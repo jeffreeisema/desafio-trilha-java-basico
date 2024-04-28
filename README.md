@@ -18,5 +18,5 @@ De forma resumida, o desafio era simular a criação de uma conta Bancária simp
 ## Como rodar o código
 1. Baixar o código disponível neste repositório para sua máquina em um diretório local.
 2. Abrir o diretório onde salvou o arquivo no terminal
-3. Acessar a pasta raíz do projeto: `cd /scr`
+3. Acessar a pasta raíz do projeto: `cd /src`
 4. Digitar o comando `java ContaTerminal.java` e pronto.
